@@ -31,3 +31,12 @@
 30 timing npm:load Completed in 72ms
 31 silly logfile done cleaning log files
 32 http fetch GET 200 https://registry.npmjs.org/npm 307ms (cache miss)
+33 timing command:run Completed in 22035336ms
+34 notice
+34 notice New [33mminor[39m version of npm available! [31m10.1.0[39m -> [32m10.9.0[39m
+34 notice Changelog: [36mhttps://github.com/npm/cli/releases/tag/v10.9.0[39m
+34 notice Run [32mnpm install -g npm@10.9.0[39m to update!
+34 notice
+35 verbose exit 3221225786
+36 timing npm Completed in 22035549ms
+37 verbose code 3221225786
